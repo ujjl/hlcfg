@@ -4,6 +4,7 @@ Essential client configurations for Half-Life
 ## Features
 * Visible crosshairs
 * Silenced chat "beep"
+* PlayDemo menu
 
 ## Installation
 1. Extract all files to your Half-Life directory
