@@ -5,6 +5,8 @@ Essential client configurations for Half-Life
 * Visible crosshairs
 * Silenced chat "beep"
 * PlayDemo menu
+* Enhanced Options menu
+ * Ability to bind weapons to keys in Keyboard tab
 
 ## Installation
 1. Extract all files to your Half-Life directory
